@@ -48,7 +48,6 @@ You can use any SQL client (recommended: **DBeaver**). Below are the credentials
 5. Click `Test Connection` → If successful, click `Finish`
 6. You can now view tables, run SQL queries, and export data
 
-
 ---
 
 ## Sample Query
@@ -60,6 +59,8 @@ JOIN Prices ON Items.ItemId = Prices.ItemId
 ORDER BY Date DESC
 LIMIT 10;
 ```
+
+> DBeaver login page and query xxample is available in the `handoff_files/screenshots` folder.
 
 ---
 
