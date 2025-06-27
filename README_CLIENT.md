@@ -27,6 +27,14 @@ The schema includes the following tables:
 
 ## Connection Details
 
+### Credentials Location
+
+The connection configuration is stored in a separate text file:
+
+- `connection_config.txt` — located in the `handoff_files/` root directory
+- **Note**: The password is not included in the file and should be shared securely (e.g., by email or private message)
+
+
 You can use any SQL client (recommended: **DBeaver**). Below are the credentials for accessing the database:
 
 | Item              | Value                                                 |

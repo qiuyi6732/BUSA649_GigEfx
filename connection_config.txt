@@ -1,0 +1,5 @@
+Host: gigefx.cjmse20c0gg6.ap-southeast-2.rds.amazonaws.com
+Port: 3306
+Username: admin
+Password: [To be provided separately for security]
+Database: gigefx
