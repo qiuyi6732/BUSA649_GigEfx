@@ -48,7 +48,6 @@ You can use any SQL client (recommended: **DBeaver**). Below are the credentials
 5. Click `Test Connection` → If successful, click `Finish`
 6. You can now view tables, run SQL queries, and export data
 
-> 📷 Screenshots are provided in the `screenshots/` folder for step-by-step reference.
 
 ---
 
@@ -60,3 +59,21 @@ FROM Items
 JOIN Prices ON Items.ItemId = Prices.ItemId
 ORDER BY Date DESC
 LIMIT 10;
+```
+
+---
+
+## Notes
+
+- This is a **read/write** environment. Be cautious with updates or deletions.
+- Data is manually loaded during the prototype phase; no automated syncing is active.
+- For scraping tools and data mapping, refer to the `data_scraping/` and `SQL_scripts/` folders.
+
+---
+
+## Support
+
+If you need assistance:
+- Refer to the ERD and schema in the SQL scripts
+- Use the sample queries to test and explore
+- Contact the original project team as listed in `README_DEV.md`
