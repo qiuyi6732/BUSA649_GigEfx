@@ -112,7 +112,7 @@ This project was developed as part of McGill MMA BUSA649.
 For questions, contact:
 
 - Qiuyi Wang – [qiuyi.wang@mail.mcgill.ca](mailto:qiuyi.wang@mail.mcgill.ca)  
-- Ziyan Chen – [ziyan.chen@mail.mcgill.ca]
+- Ziyan Chen – [ziyan.chen@mail.mcgill.ca](mailto:ziyan.chen@mail.mcgill.ca) 
 
 ---
 
